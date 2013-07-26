@@ -1,0 +1,12 @@
+/* 
+ Localizable.strings
+ CancelUpdate
+ 
+ Created by plipala on 13-7-25.
+ Copyright (c) 2013 Plipala. All rights reserved.
+ */
+
+"CANCELUPDATE_ICON_TITLE" = "Cancel “%@” Update";
+"CANCELUPDATE_ICON_BODY" = "Cancel “%@” Update, will lose you downloading progress.";
+"CANCELUPDATE_ICON_CONFIRM" = "YES";
+"CANCELUPDATE_ICON_CANCEL" = "NO";

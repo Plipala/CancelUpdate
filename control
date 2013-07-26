@@ -1,0 +1,10 @@
+Package: com.plipala.cancelupdate
+Name: CancelUpdate
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Cancel application update with close box.
+Pre-Depends: mobilesubstrate, firmware (>= 5.0), firmware (<< 7.0)
+Maintainer: plipala
+Author: plipala
+Section: Tweaks

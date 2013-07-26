@@ -1,0 +1,12 @@
+/* 
+ Localizable.strings
+ CancelUpdate
+ 
+ Created by plipala on 13-7-25.
+ Copyright (c) 2013 Plipala. All rights reserved.
+ */
+
+"CANCELUPDATE_ICON_TITLE" = "取消“%@”的更新";
+"CANCELUPDATE_ICON_BODY" = "若取消“%@”，当前下载进度将会丢失。";
+"CANCELUPDATE_ICON_CONFIRM" = "取消更新";
+"CANCELUPDATE_ICON_CANCEL" = "继续更新";
